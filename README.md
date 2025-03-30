@@ -1,11 +1,15 @@
 # promptMaster
-best system prompts I use for prompt engineering
+
+Best system prompts I use for prompt engineering, including leaked prompts from chatgpt, claude, perplexity, microsoft copilot, etc.
 
 ## System Prompts
+
 - [v0 System Prompts](https://github.com/amirh-far/promptMaster/tree/main/V0-system-prompt):  
 Some leaked system prompts for code agent, from v0 company, cloned [from](https://github.com/2-fly-4-ai/V0-system-prompt)
+
 - [leaked-system-prompts by jujumilk3](https://github.com/amirh-far/promptMaster/tree/main/leaked-system-prompts):  
-Leaked system prompts from claude, perplexity, microsoft-copilot, grok, etc. cloned [from](https://github.com/jujumilk3/leaked-system-prompts)
+Leaked system prompts from claude, perplexity, microsoft-copilot, grok, etc. cloned [from](https://github.com/jujumilk3/leaked-system-prompts)  
+
 1. [anthropic-claude_2.0_20240306.md](./leaked-system-prompts/anthropic-claude_2.0_20240306.md)
 2. [anthropic-claude_2.1_20240306.md](./leaked-system-prompts/anthropic-claude_2.1_20240306.md)
 3. [anthropic-claude-3-haiku_20240712.md](./leaked-system-prompts/anthropic-claude-3-haiku_20240712.md)
