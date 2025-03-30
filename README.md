@@ -4,13 +4,16 @@ Best system prompts I use for prompt engineering, including leaked prompts from 
 
 ## System Prompts
 
-- ### [v0 System Prompts](https://github.com/amirh-far/promptMaster/tree/main/V0-system-prompt):  
+- ### [v0 System Prompts](https://github.com/amirh-far/promptMaster/tree/main/V0-system-prompt)
+
   Some leaked system prompts for code agent, from v0 company, cloned [from](https://github.com/2-fly-4-ai/V0-system-prompt)
   
 - ### [GPT4.5 Leaked Prompt!](https://www.reddit.com/r/PromptEngineering/comments/1j5mca4/i_made_chatgpt_45_leak_its_system_prompt/)
+
   ChatGPT 4.5 Leaked Prompt in Reddit
 
-- ### [leaked-system-prompts by jujumilk3](https://github.com/amirh-far/promptMaster/tree/main/leaked-system-prompts):  
+- ### [leaked-system-prompts by jujumilk3](https://github.com/amirh-far/promptMaster/tree/main/leaked-system-prompts)
+
   Leaked system prompts from claude, perplexity, microsoft-copilot, grok, etc. cloned [from](https://github.com/jujumilk3/leaked-system-prompts)  
 
   1. [anthropic-claude_2.0_20240306.md](./leaked-system-prompts/anthropic-claude_2.0_20240306.md)
